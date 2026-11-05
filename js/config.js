@@ -19,7 +19,7 @@ window.GUILD = {
   applyEndpoint: "https://guild-bot.nytefyre.workers.dev/apply",
   // Guild bot: upcoming raids (from Raid-Helper) and what officers edit with /recruit, /bio, /announce.
   botUrl: "https://guild-bot.nytefyre.workers.dev",
-  githubRepo: "https://github.com/Nyte-fyre/Placeholder",
+  githubRepo: "https://github.com/Nyte-fyre/FWD",
   year: "2026",
 
   about:

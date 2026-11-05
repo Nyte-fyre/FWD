@@ -1,8 +1,8 @@
 # <FWD> — Horde, WoW Forever
 
-Static World of Warcraft guild recruitment site for [Nyte-fyre/Placeholder](https://github.com/Nyte-fyre/Placeholder).
+Static World of Warcraft guild recruitment site for [Nyte-fyre/FWD](https://github.com/Nyte-fyre/FWD).
 
-**Live URL (after Pages is on):** https://nyte-fyre.github.io/Placeholder/
+**Live URL (after Pages is on):** https://nyte-fyre.github.io/FWD/
 
 ## Fill in your guild
 
