@@ -1,7 +1,7 @@
 // Fill these in, commit, and push. The page reads this file on load.
 // Raid times are Eastern; the page also shows each visitor their own local time.
 window.GUILD = {
-  name: "<Placeholder>",
+  name: "<FWD>",
   game: "WoW Forever",
   faction: "Horde",
   realm: "PvP", // realm type; Forever realms are listed by type, not name

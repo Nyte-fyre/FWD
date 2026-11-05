@@ -1,4 +1,4 @@
-# <Placeholder> — Horde, WoW Forever
+# <FWD> — Horde, WoW Forever
 
 Static World of Warcraft guild recruitment site for [Nyte-fyre/Placeholder](https://github.com/Nyte-fyre/Placeholder).
 
