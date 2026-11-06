@@ -704,11 +704,12 @@ h1.guild-tag {
 }
 
 .hero-crest {
-  width: min(100%, 440px);
+  width: min(100%, 380px);
   height: auto;
   justify-self: center;
-  border-radius: 50%;
-  filter: drop-shadow(0 0 40px rgba(184, 22, 26, 0.35));
+  /* The crest sits on black: fade its edges into the page. */
+  -webkit-mask-image: radial-gradient(ellipse 50% 50% at 50% 50%, #000 70%, transparent 100%);
+  mask-image: radial-gradient(ellipse 50% 50% at 50% 50%, #000 70%, transparent 100%);
 }
 
 .site-footer {
@@ -732,7 +733,7 @@ h1.guild-tag {
 
   .hero-crest {
     order: -1;
-    width: min(70%, 300px);
+    width: min(60%, 240px);
   }
 
   .grid-2,
